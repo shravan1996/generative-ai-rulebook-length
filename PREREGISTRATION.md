@@ -85,3 +85,27 @@ The rulebook is invented, tidier than any real one, and made of rules that can b
 matching; judgement rules are not tested. Each reply is one turn, so rules fading over a long
 conversation are not tested. Only Claude is tested, through the CLI rather than the Claude app. I
 wrote the emails and the rules, with Claude Code's help.
+
+## Deviations and additions
+
+Written on 9 November 2026 after the `plain` and `emphasis` runs, before any call below. Everything
+here is exploratory and will be labelled that way.
+
+1. **`list_first` did not run.** No model dropped 5 points at any length, so its condition was never
+   met.
+2. **The main result looks like a ceiling.** Sonnet and Opus got every target rule right at 800
+   rules. Every email names its product, so the rule that applies can be found by matching a word.
+   Two arms test whether that is why.
+3. **`stacked`** (18 odd-numbered emails, all three models). The book is always 200 rules. k of them,
+   10, 30 or 100, become always-on rules requiring the reply to mention one invented Larkfield service
+   by name, the same many-rules-at-once shape as the published studies. Scored: share of the k names
+   present, and the applied rate on the same three conditional targets, which shows whether a heavy
+   always-on load costs the rules that apply only sometimes.
+4. **`amended`** (all 36 emails). The usual book plus one extra rule, placed somewhere after the rule
+   it changes, saying that case now uses a new code, desk or house term. The original stays in the
+   book unchanged. Lengths 6, 200 and 800 for Haiku and Sonnet, 6 and 200 for Opus, to hold down cost.
+   Scored as four outcomes: new token only (correct), old token only (stale), both, neither.
+
+Predictions: `stacked` applied rate on mentions falls below 90% at k=100 for Haiku and stays above
+95% for Opus; conditional targets are unaffected. `amended` is right at least 95% of the time at 6
+rules and drops by 10 points or more at 800 on Haiku.

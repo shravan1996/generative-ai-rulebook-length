@@ -315,6 +315,86 @@ def system_prompt(book=None, emphasised=(), list_first=False):
     return f"{INTRO}\n\nThe team's rules:\n\n" + "\n".join(lines) + tail
 
 
+# Exploratory arms, added after the main result. See the deviations at the end of PREREGISTRATION.md.
+
+SERVICE_NOUNS = ["helpline", "promise", "club", "guide", "fund"]
+SERVICES = [f"{ADJECTIVES[i % 40]} {SERVICE_NOUNS[i // 40 if i < 200 else 0]}" for i in range(100)]
+ALL_AT_ONCE = [10, 30, 100]
+
+
+def mention_rules(k):
+    """k always-on rules, each naming one invented Larkfield service the reply must mention."""
+    return [{"id": f"mention:{s}", "kind": "mention", "token": s,
+             "text": f"Every reply must mention the Larkfield {s} by name at least once."}
+            for s in SERVICES[:k]]
+
+
+def stacked_book(email, rules, k, total=200):
+    """A book of `total` rules in which k always-on mention rules replace distractors at random."""
+    book, _ = rulebook(email, rules, total)
+    keep = set(email["targets"]) | {r["id"] for r in rules if r["kind"] == "always"}
+    slots = [i for i, r in enumerate(book) if r["id"] not in keep]
+    random.Random(stable(SEED, email["id"], "stack")).shuffle(slots)
+    new = list(book)
+    for slot, rule in zip(slots[:k], mention_rules(k)):
+        new[slot] = rule
+    return new
+
+
+def amended_token(rule):
+    """A fresh token for a rule's update, different from every token in the pool."""
+    r = random.Random(stable(SEED, rule["id"], "update"))
+    if rule["kind"] == "code":
+        return f"{rule['token'][:2]}-{r.randrange(0, 1000):03d}7"
+    if rule["kind"] == "line":
+        return "0" + str(r.randrange(10, 100))
+    _, noun = rule["token"].split(" ", 1)
+    return f"{r.choice(FRESH_ADJECTIVES)} {noun}"
+
+
+FRESH_ADJECTIVES = ["Mallow", "Sandpiper", "Burnet", "Samphire", "Whinchat", "Pipit", "Cowslip", "Sedge",
+                    "Lapwing", "Bilberry", "Curlew", "Teal", "Woodruff", "Skylark", "Sloe", "Fieldfare"]
+UPDATE_TEXT = {
+    "code": "Update to an earlier rule: for this case ({case}), the reference to give is now {x}.",
+    "line": "Update to an earlier rule: for this case ({case}), the separate line now reads: Route: desk {x}",
+    "wording": "Update to an earlier rule: for this case ({case}), the house term is now '{x}'. The word it avoids is unchanged.",
+}
+CASES = {
+    "damaged": "a {p} that arrived damaged", "parts": "a {p} with parts missing",
+    "assembly": "help assembling a {p}", "warranty": "a guarantee claim on a {p}",
+    "wrongitem": "the wrong colour or size of {p}", "invoice": "a VAT invoice for a {p}",
+    "restock": "a {p} coming back into stock", "late": "a late {p}",
+    "misdelivered": "a {p} left in the wrong place", "cancel": "cancelling an unshipped {p}",
+    "safety": "a safety worry about a {p}", "address": "a {p} going to a different address",
+    "doublecharge": "being charged twice for a {p}", "trade": "a bulk price on a {p}",
+    "refund": "money back on a {p}", "replace": "another {p} after breaking one",
+    "deliveryfee": "what it cost to deliver a {p}", "promo": "a promotional code failing on a {p}",
+    "takeback": "taking away an old {p}", "instalments": "paying for a {p} over several months",
+}
+
+
+def amendment(email, rules):
+    """(the target this email's update changes, the update rule with its new token)."""
+    n = int(email["id"][1:])
+    by_id = {r["id"]: r for r in rules}
+    target = by_id[email["targets"][n % 3]]
+    token = amended_token(target)
+    case = CASES[target["situation"]].format(p=target["product"])
+    update = dict(target, id=f"update:{target['id']}", token=token,
+                  text=UPDATE_TEXT[target["kind"]].format(case=case, x=token))
+    return target, update
+
+
+def amended_book(email, rules, total):
+    """The usual book plus one update, placed somewhere after the rule it changes."""
+    book, thirds = rulebook(email, rules, total)
+    target, update = amendment(email, rules)
+    at = next(i for i, r in enumerate(book) if r["id"] == target["id"])
+    r = random.Random(stable(SEED, email["id"], total, "update"))
+    slot = r.randrange(at + 1, len(book) + 1)
+    return book[:slot] + [update] + book[slot:], target, update
+
+
 def main():
     (ROOT / "data").mkdir(exist_ok=True)
     (ROOT / "data" / "rules.json").write_text(json.dumps(build_rules(), indent=1, ensure_ascii=False))

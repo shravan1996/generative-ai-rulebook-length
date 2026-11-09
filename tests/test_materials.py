@@ -156,3 +156,35 @@ class Scorer(unittest.TestCase):
         self.assertEqual(score.email_part("3, 7\n---\nHello", True), "Hello")
         self.assertEqual(score.email_part("Hello", True), "Hello")
         self.assertEqual(score.email_part("3\n---\nHello", False), "3\n---\nHello")
+
+
+class ExploratoryArms(unittest.TestCase):
+    def test_mention_names_are_unique_and_never_in_the_rulebook_tokens(self):
+        self.assertEqual(len(set(prepare.SERVICES)), 100)
+        tokens = {r["token"] for r in RULES if r["kind"] != "always"}
+        self.assertFalse(tokens & set(prepare.SERVICES))
+
+    def test_stacked_book_keeps_length_targets_and_always_on(self):
+        for e in EMAILS[:6]:
+            for k in prepare.ALL_AT_ONCE:
+                book = prepare.stacked_book(e, RULES, k)
+                ids = {r["id"] for r in book}
+                self.assertEqual(len(book), 200)
+                self.assertEqual(sum(r["kind"] == "mention" for r in book), k)
+                self.assertTrue(set(e["targets"]) <= ids)
+                self.assertEqual(sum(r["kind"] == "always" for r in book), 3)
+
+    def test_update_sits_after_the_rule_it_changes_with_a_new_token(self):
+        pool = {r["token"] for r in RULES if r["kind"] != "always"}
+        for e in EMAILS:
+            for n in (6, 200, 800):
+                book, target, update = prepare.amended_book(e, RULES, n)
+                ids = [r["id"] for r in book]
+                self.assertEqual(len(book), n + 1)
+                self.assertLess(ids.index(target["id"]), ids.index(update["id"]))
+                self.assertNotEqual(update["token"], target["token"])
+                self.assertNotIn(update["token"], pool)
+
+    def test_updates_rotate_across_rule_kinds(self):
+        kinds = [prepare.amendment(e, RULES)[0]["kind"] for e in EMAILS]
+        self.assertEqual({k: kinds.count(k) for k in set(kinds)}, {"code": 12, "line": 12, "wording": 12})

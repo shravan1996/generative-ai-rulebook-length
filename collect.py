@@ -28,7 +28,7 @@ import prepare
 ROOT = Path(__file__).parent
 CALLS = Path(os.environ.get("RULEBOOK_CALLS", ROOT / "results" / "calls.jsonl"))
 SCRATCH = os.environ.get("RULEBOOK_CLAUDE_CWD", os.path.join(tempfile.gettempdir(), "rulebook-claude"))
-ARMS = ("plain", "emphasis", "list_first")
+ARMS = ("plain", "emphasis", "list_first", "stacked", "amended")
 
 _lock = threading.Lock()
 
@@ -70,6 +70,11 @@ def call_claude(model, system, prompt, timeout=540):
 def build_system(email, rules, length, arm):
     if length == 0:
         return prepare.system_prompt()
+    if arm == "stacked":
+        # `length` here is k, the number of always-on mention rules; the book is always 200 long.
+        return prepare.system_prompt(prepare.stacked_book(email, rules, length))
+    if arm == "amended":
+        return prepare.system_prompt(prepare.amended_book(email, rules, length)[0])
     book, _ = prepare.rulebook(email, rules, length)
     emphasised = prepare.marked(email, book) if arm == "emphasis" else ()
     return prepare.system_prompt(book, emphasised, list_first=arm == "list_first")
