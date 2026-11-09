@@ -1,0 +1,398 @@
+[
+ {
+  "id": "e01",
+  "name": "Priya",
+  "order": "LK-68251",
+  "text": "Order LK-68251\n\nHello,\n\nThe kettle from my order turned up with a cracked lid and a dent in the side. The bookcase on the same order was promised for last Tuesday and still hasn't come. And I've gone off the toaster, which is still sealed in its box, so I'd like my money back for that one.\n\nThanks,\nPriya",
+  "targets": [
+   "damaged:kettle",
+   "late:bookcase",
+   "refund:toaster"
+  ]
+ },
+ {
+  "id": "e02",
+  "name": "Tom",
+  "order": "LK-45110",
+  "text": "Order LK-45110\n\nHello,\n\nThe desk chair came with only three of its five castors. Your driver left the rug behind the bins at number 14, which isn't my house (I'm at 41), and it's soaked through. Separately, my son put a football through the mirror I bought from you, which is entirely on us. Could you send me another?\n\nThanks,\nTom",
+  "targets": [
+   "parts:desk chair",
+   "misdelivered:rug",
+   "replace:mirror"
+  ]
+ },
+ {
+  "id": "e03",
+  "name": "Aisha",
+  "order": "LK-55272",
+  "text": "Order LK-55272\n\nHello,\n\nI've been staring at the instructions for the wardrobe for two hours and can't work out how the doors go on. Please also cancel the parasol, it hasn't left you yet and I've found one locally. And why did I pay £35 to have the sofa bed brought round when the website said free?\n\nThanks,\nAisha",
+  "targets": [
+   "assembly:wardrobe",
+   "cancel:parasol",
+   "deliveryfee:sofa bed"
+  ]
+ },
+ {
+  "id": "e04",
+  "name": "Callum",
+  "order": "LK-30519",
+  "text": "Order LK-30519\n\nHello,\n\nMy slow cooker stopped heating after eight months and I'd like to claim on the guarantee. The gas hose on the patio heater feels loose and I honestly don't feel safe lighting it. And the 20% off code from your newsletter wouldn't go through on the bath mat.\n\nThanks,\nCallum",
+  "targets": [
+   "warranty:slow cooker",
+   "safety:patio heater",
+   "promo:bath mat"
+  ]
+ },
+ {
+  "id": "e05",
+  "name": "Beth",
+  "order": "LK-70066",
+  "text": "Order LK-70066\n\nHello,\n\nI ordered a king size duvet and you've sent a single. Could the ironing board go to my office at 7 Mill Lane rather than home? And when the new bed comes on Friday, can your men take away the old mattress?\n\nThanks,\nBeth",
+  "targets": [
+   "wrongitem:duvet",
+   "address:ironing board",
+   "takeback:mattress"
+  ]
+ },
+ {
+  "id": "e06",
+  "name": "Marek",
+  "order": "LK-51146",
+  "text": "Order LK-51146\n\nHello,\n\nI need a VAT invoice for the tool chest for my business accounts. My card statement shows the step ladder twice, same amount, same day. Can I pay for the hammock over three months rather than in one go?\n\nThanks,\nMarek",
+  "targets": [
+   "invoice:tool chest",
+   "doublecharge:step ladder",
+   "instalments:hammock"
+  ]
+ },
+ {
+  "id": "e07",
+  "name": "Sofia",
+  "order": "LK-95333",
+  "text": "Order LK-95333\n\nHello,\n\nDo you know when the dog bed will be back on the shelves? It's been out for weeks. We run a small chain of cafes and want fourteen of the wall clock, is there a bulk price for businesses? Also the plant pot turned out too big for the windowsill and I'd like my money back.\n\nThanks,\nSofia",
+  "targets": [
+   "restock:dog bed",
+   "trade:wall clock",
+   "refund:plant pot"
+  ]
+ },
+ {
+  "id": "e08",
+  "name": "Hassan",
+  "order": "LK-86381",
+  "text": "Order LK-86381\n\nHello,\n\nThe picture frame arrived with the glass in pieces. The coffee table was due on Monday and nobody has been. And I left your watering can out in the frost and it split, my own fault, but could I have another one?\n\nThanks,\nHassan",
+  "targets": [
+   "damaged:picture frame",
+   "late:coffee table",
+   "replace:watering can"
+  ]
+ },
+ {
+  "id": "e09",
+  "name": "Olivia",
+  "order": "LK-24488",
+  "text": "Order LK-24488\n\nHello,\n\nThe bike rack box had none of the wall bolts in it. The courier left my storage basket in the car park of the flats next door. And I was charged £12 to get a curtain pole delivered, which seems a lot for a stick.\n\nThanks,\nOlivia",
+  "targets": [
+   "parts:bike rack",
+   "misdelivered:storage basket",
+   "deliveryfee:curtain pole"
+  ]
+ },
+ {
+  "id": "e10",
+  "name": "Dan",
+  "order": "LK-33794",
+  "text": "Order LK-33794\n\nHello,\n\nI can't for the life of me work out how to assemble the high chair, the tray won't clip on. Could you cancel the doormat please, it's not been dispatched yet. Your welcome code keeps being rejected on the laundry hamper too.\n\nThanks,\nDan",
+  "targets": [
+   "assembly:high chair",
+   "cancel:doormat",
+   "promo:laundry hamper"
+  ]
+ },
+ {
+  "id": "e11",
+  "name": "Nadia",
+  "order": "LK-19676",
+  "text": "Order LK-19676\n\nHello,\n\nThe stand mixer stopped turning last week, only ten months old, and I want to use the guarantee. The floor lamp gave me a small shock when I touched the switch, which has me worried. And when you bring the new settee could you take away my old sofa bed?\n\nThanks,\nNadia",
+  "targets": [
+   "warranty:stand mixer",
+   "safety:floor lamp",
+   "takeback:sofa bed"
+  ]
+ },
+ {
+  "id": "e12",
+  "name": "Rui",
+  "order": "LK-15617",
+  "text": "Order LK-15617\n\nHello,\n\nThe shower curtain I got is grey and I ordered blue. Can the cat tree be sent to my mother's address in Leeds instead of mine? And is there a way of spreading the cost of the wardrobe across six months?\n\nThanks,\nRui",
+  "targets": [
+   "wrongitem:shower curtain",
+   "address:cat tree",
+   "instalments:wardrobe"
+  ]
+ },
+ {
+  "id": "e13",
+  "name": "Greta",
+  "order": "LK-72170",
+  "text": "Order LK-72170\n\nHello,\n\nPlease could I have a VAT invoice for the mattress. My bank has taken the money for the towel rail twice. And the dish rack doesn't fit my sink, so I'd like my money back on that.\n\nThanks,\nGreta",
+  "targets": [
+   "invoice:mattress",
+   "doublecharge:towel rail",
+   "refund:dish rack"
+  ]
+ },
+ {
+  "id": "e14",
+  "name": "Ife",
+  "order": "LK-72606",
+  "text": "Order LK-72606\n\nHello,\n\nWhen will you have the bedside table in stock again? I run a nursery and we'd like twenty of the play tent, so is there a bulk price for that? And our cat knocked my kettle off the counter and smashed it, all her doing, so can I get another?\n\nThanks,\nIfe",
+  "targets": [
+   "restock:bedside table",
+   "trade:play tent",
+   "replace:kettle"
+  ]
+ },
+ {
+  "id": "e15",
+  "name": "Liam",
+  "order": "LK-42847",
+  "text": "Order LK-42847\n\nHello,\n\nThe hammock arrived with a big tear along one edge. The ironing board should have been here on Saturday. And I paid £9 to get the bookcase delivered even though I spent over the limit where you said delivery was free.\n\nThanks,\nLiam",
+  "targets": [
+   "damaged:hammock",
+   "late:ironing board",
+   "deliveryfee:bookcase"
+  ]
+ },
+ {
+  "id": "e16",
+  "name": "Yuki",
+  "order": "LK-28546",
+  "text": "Order LK-28546\n\nHello,\n\nMy step ladder arrived without the rubber feet that are meant to be in the box. Your driver dumped my parasol at the neighbour's gate when I was home all day. And the code from the flyer says invalid when I try it on the mirror.\n\nThanks,\nYuki",
+  "targets": [
+   "parts:step ladder",
+   "misdelivered:parasol",
+   "promo:mirror"
+  ]
+ },
+ {
+  "id": "e17",
+  "name": "Amara",
+  "order": "LK-47689",
+  "text": "Order LK-47689\n\nHello,\n\nThe bike rack has defeated me, I can't see how the arms fit together at all. Please cancel the slow cooker while it's still in your warehouse. When the new rug arrives, can the driver please take the old rug away with him?\n\nThanks,\nAmara",
+  "targets": [
+   "assembly:bike rack",
+   "cancel:slow cooker",
+   "takeback:rug"
+  ]
+ },
+ {
+  "id": "e18",
+  "name": "Jonas",
+  "order": "LK-57489",
+  "text": "Order LK-57489\n\nHello,\n\nThe patio heater won't light any more, it's eleven months old, and I'd like to make a claim under the guarantee. My daughter's high chair wobbles when she leans over and one leg looks like it could give way, so I don't feel she's safe in it. Also I'd like to pay for the tool chest monthly over a few months if you offer that.\n\nThanks,\nJonas",
+  "targets": [
+   "warranty:patio heater",
+   "safety:high chair",
+   "instalments:tool chest"
+  ]
+ },
+ {
+  "id": "e19",
+  "name": "Chloe",
+  "order": "LK-25337",
+  "text": "Order LK-25337\n\nHello,\n\nYou've sent the small bath mat and I ordered the large. Could the dog bed go to my sister's at 22 Fern Road instead? The picture frame also isn't what I wanted after all, so I'd like my money back on it.\n\nThanks,\nChloe",
+  "targets": [
+   "wrongitem:bath mat",
+   "address:dog bed",
+   "refund:picture frame"
+  ]
+ },
+ {
+  "id": "e20",
+  "name": "Farid",
+  "order": "LK-99147",
+  "text": "Order LK-99147\n\nHello,\n\nMy accountant wants a VAT invoice for the desk chair. I've looked at my statement and the coffee table has been charged twice. I tripped and fell into the floor lamp and bent it beyond repair, which is my fault, but can you send me another?\n\nThanks,\nFarid",
+  "targets": [
+   "invoice:desk chair",
+   "doublecharge:coffee table",
+   "replace:floor lamp"
+  ]
+ },
+ {
+  "id": "e21",
+  "name": "Mei",
+  "order": "LK-90289",
+  "text": "Order LK-90289\n\nHello,\n\nAny idea when the towel rail will be available again? We're fitting out a hotel and need sixty of the storage basket, what can you do on price for a company? And I paid £15 to have a dish rack delivered, which was more than the rack.\n\nThanks,\nMei",
+  "targets": [
+   "restock:towel rail",
+   "trade:storage basket",
+   "deliveryfee:dish rack"
+  ]
+ },
+ {
+  "id": "e22",
+  "name": "Owen",
+  "order": "LK-45675",
+  "text": "Order LK-45675\n\nHello,\n\nThe stand mixer was dented when I opened the box and the bowl has a crack. The plant pot was meant to be here by Wednesday and still isn't. And the spring sale code didn't apply when I tried it on the bookcase.\n\nThanks,\nOwen",
+  "targets": [
+   "damaged:stand mixer",
+   "late:plant pot",
+   "promo:bookcase"
+  ]
+ },
+ {
+  "id": "e23",
+  "name": "Zara",
+  "order": "LK-82785",
+  "text": "Order LK-82785\n\nHello,\n\nThe cat tree came without the post that holds up the top shelf. The courier put my kettle in the recycling bin outside, of all places. And could you take away the old wardrobe when you deliver the new one?\n\nThanks,\nZara",
+  "targets": [
+   "parts:cat tree",
+   "misdelivered:kettle",
+   "takeback:wardrobe"
+  ]
+ },
+ {
+  "id": "e24",
+  "name": "Ben",
+  "order": "LK-35638",
+  "text": "Order LK-35638\n\nHello,\n\nCould someone explain how to assemble the sofa bed, because the frame doesn't line up the way the leaflet shows. Please cancel the laundry hamper, I can see it hasn't been sent. And can I split the cost of the mattress over several months?\n\nThanks,\nBen",
+  "targets": [
+   "assembly:sofa bed",
+   "cancel:laundry hamper",
+   "instalments:mattress"
+  ]
+ },
+ {
+  "id": "e25",
+  "name": "Dina",
+  "order": "LK-19910",
+  "text": "Order LK-19910\n\nHello,\n\nMy wall clock has stopped working after a few months and I'd like to claim on the guarantee. The top step of the step ladder bends when I stand on it and I don't feel safe using it. I've also decided against the curtain pole, so I'd like my money back on that.\n\nThanks,\nDina",
+  "targets": [
+   "warranty:wall clock",
+   "safety:step ladder",
+   "refund:curtain pole"
+  ]
+ },
+ {
+  "id": "e26",
+  "name": "Kofi",
+  "order": "LK-93076",
+  "text": "Order LK-93076\n\nHello,\n\nThe plant pot you delivered is terracotta and I ordered white. Could the rug go to our new flat, 3 Canal Street, rather than the old one? And our puppy chewed the dog bed to bits, our own fault, so can you send me another?\n\nThanks,\nKofi",
+  "targets": [
+   "wrongitem:plant pot",
+   "address:rug",
+   "replace:dog bed"
+  ]
+ },
+ {
+  "id": "e27",
+  "name": "Ines",
+  "order": "LK-36107",
+  "text": "Order LK-36107\n\nHello,\n\nPlease send me a VAT invoice for the dish rack. I've been billed twice for the bedside table according to my banking app. And why does it cost £18 to deliver a high chair?\n\nThanks,\nInes",
+  "targets": [
+   "invoice:dish rack",
+   "doublecharge:bedside table",
+   "deliveryfee:high chair"
+  ]
+ },
+ {
+  "id": "e28",
+  "name": "Harry",
+  "order": "LK-20606",
+  "text": "Order LK-20606\n\nHello,\n\nWhen is the shower curtain going to be back in stock? The toaster was promised for yesterday and hasn't turned up. And the friends and family code won't work on the duvet.\n\nThanks,\nHarry",
+  "targets": [
+   "restock:shower curtain",
+   "late:toaster",
+   "promo:duvet"
+  ]
+ },
+ {
+  "id": "e29",
+  "name": "Leila",
+  "order": "LK-16786",
+  "text": "Order LK-16786\n\nHello,\n\nThe doormat came with one corner ripped off. The courier left my laundry hamper at the post office without telling me. And when you drop off the new one, could you take away my old bike rack?\n\nThanks,\nLeila",
+  "targets": [
+   "damaged:doormat",
+   "misdelivered:laundry hamper",
+   "takeback:bike rack"
+  ]
+ },
+ {
+  "id": "e30",
+  "name": "Sam",
+  "order": "LK-71696",
+  "text": "Order LK-71696\n\nHello,\n\nThe bookcase is short of two shelf pins so I can't finish it. Please cancel the towel rail before it goes out. And is it possible to pay for the patio heater over several months?\n\nThanks,\nSam",
+  "targets": [
+   "parts:bookcase",
+   "cancel:towel rail",
+   "instalments:patio heater"
+  ]
+ },
+ {
+  "id": "e31",
+  "name": "Anya",
+  "order": "LK-99030",
+  "text": "Order LK-99030\n\nHello,\n\nI need someone to tell me how to assemble the cat tree, because the diagram makes no sense. The handle on the kettle gets so hot that it burned my hand, and I'm worried it isn't safe. I'd also like my money back on the slow cooker, which I've decided I don't need.\n\nThanks,\nAnya",
+  "targets": [
+   "assembly:cat tree",
+   "safety:kettle",
+   "refund:slow cooker"
+  ]
+ },
+ {
+  "id": "e32",
+  "name": "Reza",
+  "order": "LK-93308",
+  "text": "Order LK-93308\n\nHello,\n\nThe floor lamp has stopped working and I'd like to make a claim under its guarantee. Could you send the picture frame to my work address, 40 Quay Road, instead? And I reversed over the tool chest in the drive, completely my doing, so could you send another?\n\nThanks,\nReza",
+  "targets": [
+   "warranty:floor lamp",
+   "address:picture frame",
+   "replace:tool chest"
+  ]
+ },
+ {
+  "id": "e33",
+  "name": "Holly",
+  "order": "LK-51353",
+  "text": "Order LK-51353\n\nHello,\n\nThe rug is green and I ordered the navy. My card has been charged twice for the parasol. And I'd like someone to explain the £22 I paid to have a hammock delivered, as it weighs almost nothing.\n\nThanks,\nHolly",
+  "targets": [
+   "wrongitem:rug",
+   "doublecharge:parasol",
+   "deliveryfee:hammock"
+  ]
+ },
+ {
+  "id": "e34",
+  "name": "Dev",
+  "order": "LK-21410",
+  "text": "Order LK-21410\n\nHello,\n\nI need a VAT invoice for the play tent, please. The mirror is hanging from a fixing that pulled out of the wall, and I'm frightened it will fall on someone. And your code from the email wouldn't take on the stand mixer.\n\nThanks,\nDev",
+  "targets": [
+   "invoice:play tent",
+   "safety:mirror",
+   "promo:stand mixer"
+  ]
+ },
+ {
+  "id": "e35",
+  "name": "Noor",
+  "order": "LK-24428",
+  "text": "Order LK-24428\n\nHello,\n\nWill the watering can be back in stock this month? We're a landscaping firm and want thirty of the garden bench, do you offer a bulk price to businesses? And can you take away my old desk chair when the new one comes?\n\nThanks,\nNoor",
+  "targets": [
+   "restock:watering can",
+   "trade:garden bench",
+   "takeback:desk chair"
+  ]
+ },
+ {
+  "id": "e36",
+  "name": "Erik",
+  "order": "LK-57541",
+  "text": "Order LK-57541\n\nHello,\n\nThe wardrobe has a split right down one door and it came like that. The table lamp was due on Thursday and I've heard nothing. And could I pay off the sofa bed in monthly amounts rather than all at once?\n\nThanks,\nErik",
+  "targets": [
+   "damaged:wardrobe",
+   "late:table lamp",
+   "instalments:sofa bed"
+  ]
+ }
+]
