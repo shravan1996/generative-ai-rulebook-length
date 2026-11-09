@@ -109,3 +109,10 @@ here is exploratory and will be labelled that way.
 Predictions: `stacked` applied rate on mentions falls below 90% at k=100 for Haiku and stays above
 95% for Opus; conditional targets are unaffected. `amended` is right at least 95% of the time at 6
 rules and drops by 10 points or more at 800 on Haiku.
+
+5. **The `stacked` scorer changed after I read replies.** My first scorer needed the exact phrase, such
+   as "Juniper helpline", and scored a reply listing "helplines: Juniper, Hazel, Rowan" as zero. I
+   found this by reading the replies behind an odd all-or-nothing pattern. Both are reported: `strict`
+   is the original, `grouped` also counts a shared-noun list. Replies are classified as naming
+   everything, saying that they had not, or skipping quietly; that classifier is a regular expression
+   I wrote after seeing replies, and every reply it marks "said_so" is checked by hand.

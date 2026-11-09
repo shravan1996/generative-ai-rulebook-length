@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="681" viewBox="0 0 680 681" role="img" aria-labelledby="title desc">
+  <title id="title">What I&#x27;d do with a long instructions file</title>
+  <desc id="desc">The file is long and the replies are fine: Leave it alone. On Sonnet and Opus every rule that applied was followed at 800 rules, so trimming buys you a smaller bill and an easier file to read, not better replies. You&#x27;re adding a rule: Say when it applies, in words the task will contain. Every rule in my list did that, and I can&#x27;t separate that from the result. A rule has changed: Delete the old one anyway. Claude used the update in all 288 replies, but the next person editing the file won&#x27;t work that out. A rule has to show up in every reply: Keep that group short and check it on Haiku. Given ten of them, it named only one or two in 6 of 18 replies. A rule can never be broken: Check the reply with a script before it goes out. Haiku still wrote a banned word in up to 1 reply in 12, and the wrong desk twice. Something got missed and you reach for IMPORTANT: Look for the reason first. I couldn&#x27;t measure any benefit from it, though Sonnet and Opus left no room to improve. Written for one-turn replies from rules I could check by code. Long conversations and rules that take judgement are untested.</desc>
+  <style>
+    text { stroke: none; }
+    .serif { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; }
+    .sans  { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .h1 { font-size: 26px; font-weight: 600; fill: #191F1D; }
+    .sub { font-size: 14.5px; fill: #3F4945; }
+    .label { font-size: 11px; font-weight: 700; letter-spacing: 1.1px; fill: #5C6964; }
+    .row { font-size: 14.5px; fill: #191F1D; }
+    .rowb { font-size: 14.5px; font-weight: 600; fill: #191F1D; }
+    .cell { font-size: 13.5px; fill: #3F4945; }
+    .val { font-size: 14px; font-weight: 700; fill: #191F1D; }
+    .num { font-size: 14px; fill: #3F4945; }
+    .axis { font-size: 12px; fill: #5C6964; }
+    .foot { font-size: 13.5px; fill: #3F4945; }
+  </style>
+  <text class="serif h1" x="32.0" y="44.0">What I&#x27;d do with a long instructions file</text>
+  <text class="sans sub" x="32.0" y="72.0">For replies written from a list of rules on Claude, as of November 2026.</text>
+  <line x1="32.0" y1="92.0" x2="648.0" y2="92.0" stroke="#D3DBD7" stroke-width="1"/>
+  <text class="sans rowb" x="32.0" y="120.0">The file is long and the</text>
+  <text class="sans rowb" x="32.0" y="140.0">replies are fine</text>
+  <text class="sans cell" x="238.0" y="120.0">Leave it alone. On Sonnet and Opus every rule that</text>
+  <text class="sans cell" x="238.0" y="139.0">applied was followed at 800 rules, so trimming buys you a</text>
+  <text class="sans cell" x="238.0" y="158.0">smaller bill and an easier file to read, not better</text>
+  <text class="sans cell" x="238.0" y="177.0">replies.</text>
+  <line x1="32.0" y1="200.0" x2="648.0" y2="200.0" stroke="#D3DBD7" stroke-width="1"/>
+  <text class="sans rowb" x="32.0" y="226.0">You&#x27;re adding a rule</text>
+  <text class="sans cell" x="238.0" y="226.0">Say when it applies, in words the task will contain.</text>
+  <text class="sans cell" x="238.0" y="245.0">Every rule in my list did that, and I can&#x27;t separate that</text>
+  <text class="sans cell" x="238.0" y="264.0">from the result.</text>
+  <line x1="32.0" y1="287.0" x2="648.0" y2="287.0" stroke="#D3DBD7" stroke-width="1"/>
+  <text class="sans rowb" x="32.0" y="313.0">A rule has changed</text>
+  <text class="sans cell" x="238.0" y="313.0">Delete the old one anyway. Claude used the update in all</text>
+  <text class="sans cell" x="238.0" y="332.0">288 replies, but the next person editing the file won&#x27;t</text>
+  <text class="sans cell" x="238.0" y="351.0">work that out.</text>
+  <line x1="32.0" y1="374.0" x2="648.0" y2="374.0" stroke="#D3DBD7" stroke-width="1"/>
+  <text class="sans rowb" x="32.0" y="400.0">A rule has to show up in</text>
+  <text class="sans rowb" x="32.0" y="420.0">every reply</text>
+  <text class="sans cell" x="238.0" y="400.0">Keep that group short and check it on Haiku. Given ten of</text>
+  <text class="sans cell" x="238.0" y="419.0">them, it named only one or two in 6 of 18 replies.</text>
+  <line x1="32.0" y1="444.0" x2="648.0" y2="444.0" stroke="#D3DBD7" stroke-width="1"/>
+  <text class="sans rowb" x="32.0" y="470.0">A rule can never be</text>
+  <text class="sans rowb" x="32.0" y="490.0">broken</text>
+  <text class="sans cell" x="238.0" y="470.0">Check the reply with a script before it goes out. Haiku</text>
+  <text class="sans cell" x="238.0" y="489.0">still wrote a banned word in up to 1 reply in 12, and the</text>
+  <text class="sans cell" x="238.0" y="508.0">wrong desk twice.</text>
+  <line x1="32.0" y1="531.0" x2="648.0" y2="531.0" stroke="#D3DBD7" stroke-width="1"/>
+  <text class="sans rowb" x="32.0" y="557.0">Something got missed and</text>
+  <text class="sans rowb" x="32.0" y="577.0">you reach for IMPORTANT</text>
+  <text class="sans cell" x="238.0" y="557.0">Look for the reason first. I couldn&#x27;t measure any benefit</text>
+  <text class="sans cell" x="238.0" y="576.0">from it, though Sonnet and Opus left no room to improve.</text>
+  <line x1="32.0" y1="601.0" x2="648.0" y2="601.0" stroke="#D3DBD7" stroke-width="1"/>
+  <text class="sans foot" x="32.0" y="627.0">Written for one-turn replies from rules I could check by code. Long conversations and</text>
+  <text class="sans foot" x="32.0" y="646.0">rules that take judgement are untested.</text>
+</svg>

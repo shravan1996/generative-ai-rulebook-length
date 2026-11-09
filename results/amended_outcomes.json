@@ -1,0 +1,2306 @@
+[
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e05",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:mattress"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e06",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:tool chest"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e17",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:rug"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e24",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:sofa bed"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e23",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:wardrobe"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e12",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:shower curtain"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e19",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "address:dog bed"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e09",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bike rack"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e15",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:hammock"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e16",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "misdelivered:parasol"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e08",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:watering can"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e07",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "trade:wall clock"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e04",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:patio heater"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e14",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:kettle"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e20",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:floor lamp"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e11",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:sofa bed"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e10",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "cancel:doormat"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e22",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:plant pot"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e01",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:bookcase"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e02",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:mirror"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e13",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "doublecharge:towel rail"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e21",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "restock:towel rail"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e18",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "warranty:patio heater"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e03",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:wardrobe"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e25",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:step ladder"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e29",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:bike rack"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e30",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bookcase"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e33",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:rug"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e26",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:dog bed"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e28",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:toaster"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e36",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:wardrobe"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e27",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:dish rack"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e31",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:kettle"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e35",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:desk chair"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e32",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:tool chest"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 6,
+  "email": "e34",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:mirror"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e05",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:mattress"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e06",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:tool chest"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e04",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:patio heater"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e01",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:bookcase"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e13",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "doublecharge:towel rail"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e10",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "cancel:doormat"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e07",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "trade:wall clock"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e18",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "warranty:patio heater"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e16",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "misdelivered:parasol"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e09",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bike rack"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e22",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:plant pot"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e17",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:rug"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e15",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:hammock"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e19",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "address:dog bed"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e14",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:kettle"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e03",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:wardrobe"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e02",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:mirror"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e08",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:watering can"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e21",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "restock:towel rail"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e11",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:sofa bed"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e20",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:floor lamp"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e12",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:shower curtain"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e23",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:wardrobe"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e24",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:sofa bed"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e26",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:dog bed"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e30",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bookcase"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e28",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:toaster"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e25",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:step ladder"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e27",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:dish rack"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e34",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:mirror"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e29",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:bike rack"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e31",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:kettle"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e33",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:rug"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e36",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:wardrobe"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e32",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:tool chest"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 200,
+  "email": "e35",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:desk chair"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e01",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:bookcase"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e06",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:tool chest"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e04",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:patio heater"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e02",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:mirror"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e09",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bike rack"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e05",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:mattress"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e13",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "doublecharge:towel rail"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e03",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:wardrobe"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e10",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "cancel:doormat"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e17",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:rug"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e08",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:watering can"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e11",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:sofa bed"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e19",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "address:dog bed"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e21",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "restock:towel rail"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e07",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "trade:wall clock"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e16",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "misdelivered:parasol"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e12",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:shower curtain"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e23",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:wardrobe"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e18",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "warranty:patio heater"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e15",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:hammock"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e20",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:floor lamp"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e22",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:plant pot"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e14",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:kettle"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e24",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:sofa bed"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e30",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bookcase"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e25",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:step ladder"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e28",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:toaster"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e26",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:dog bed"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e31",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:kettle"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e29",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:bike rack"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e35",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:desk chair"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e27",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:dish rack"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e33",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:rug"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e32",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:tool chest"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e36",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:wardrobe"
+ },
+ {
+  "model": "Haiku 5.5",
+  "length": 800,
+  "email": "e34",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:mirror"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e01",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:bookcase"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e11",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:sofa bed"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e08",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:watering can"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e09",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bike rack"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e05",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:mattress"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e03",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:wardrobe"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e02",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:mirror"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e07",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "trade:wall clock"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e10",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "cancel:doormat"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e04",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:patio heater"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e06",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:tool chest"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e12",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:shower curtain"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e13",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "doublecharge:towel rail"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e14",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:kettle"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e17",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:rug"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e19",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "address:dog bed"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e20",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:floor lamp"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e16",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "misdelivered:parasol"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e30",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bookcase"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e26",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:dog bed"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e27",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:dish rack"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e32",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:tool chest"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e22",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:plant pot"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e34",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:mirror"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e18",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "warranty:patio heater"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e15",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:hammock"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e23",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:wardrobe"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e21",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "restock:towel rail"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e29",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:bike rack"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e25",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:step ladder"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e33",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:rug"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e31",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:kettle"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e35",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:desk chair"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e28",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:toaster"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e24",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:sofa bed"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 6,
+  "email": "e36",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:wardrobe"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e06",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:tool chest"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e08",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:watering can"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e05",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:mattress"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e04",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:patio heater"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e09",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bike rack"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e02",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:mirror"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e07",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "trade:wall clock"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e03",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:wardrobe"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e01",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:bookcase"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e10",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "cancel:doormat"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e11",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:sofa bed"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e12",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:shower curtain"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e13",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "doublecharge:towel rail"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e14",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:kettle"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e17",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:rug"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e19",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "address:dog bed"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e23",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:wardrobe"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e26",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:dog bed"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e28",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:toaster"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e22",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:plant pot"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e15",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:hammock"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e18",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "warranty:patio heater"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e21",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "restock:towel rail"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e25",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:step ladder"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e31",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:kettle"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e20",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:floor lamp"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e30",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bookcase"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e24",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:sofa bed"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e29",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:bike rack"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e33",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:rug"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e32",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:tool chest"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e27",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:dish rack"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e34",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:mirror"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e16",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "misdelivered:parasol"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e35",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:desk chair"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 200,
+  "email": "e36",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:wardrobe"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e06",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:tool chest"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e01",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:bookcase"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e04",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:patio heater"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e03",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:wardrobe"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e05",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:mattress"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e08",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:watering can"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e10",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "cancel:doormat"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e02",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:mirror"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e07",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "trade:wall clock"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e11",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:sofa bed"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e09",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bike rack"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e13",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "doublecharge:towel rail"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e12",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:shower curtain"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e17",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:rug"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e19",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "address:dog bed"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e15",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:hammock"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e16",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "misdelivered:parasol"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e23",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:wardrobe"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e21",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "restock:towel rail"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e20",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:floor lamp"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e14",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:kettle"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e18",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "warranty:patio heater"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e30",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bookcase"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e25",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:step ladder"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e24",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:sofa bed"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e29",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:bike rack"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e22",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:plant pot"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e31",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:kettle"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e27",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:dish rack"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e28",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:toaster"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e26",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:dog bed"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e34",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:mirror"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e32",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:tool chest"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e35",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:desk chair"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e33",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:rug"
+ },
+ {
+  "model": "Sonnet 5.5",
+  "length": 800,
+  "email": "e36",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:wardrobe"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e24",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:sofa bed"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e17",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:rug"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e05",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:mattress"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e19",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "address:dog bed"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e12",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:shower curtain"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e01",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:bookcase"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e21",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "restock:towel rail"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e07",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "trade:wall clock"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e23",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:wardrobe"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e13",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "doublecharge:towel rail"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e09",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bike rack"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e18",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "warranty:patio heater"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e11",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:sofa bed"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e14",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:kettle"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e06",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:tool chest"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e20",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:floor lamp"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e08",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:watering can"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e10",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "cancel:doormat"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e02",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:mirror"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e15",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:hammock"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e22",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:plant pot"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e16",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "misdelivered:parasol"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e03",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:wardrobe"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e04",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:patio heater"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e25",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:step ladder"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e27",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:dish rack"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e26",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:dog bed"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e31",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:kettle"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e30",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bookcase"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e28",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:toaster"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e32",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:tool chest"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e29",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:bike rack"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e35",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:desk chair"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e36",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:wardrobe"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e34",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:mirror"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 6,
+  "email": "e33",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:rug"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e05",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:mattress"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e01",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:bookcase"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e02",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:mirror"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e06",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:tool chest"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e08",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:watering can"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e07",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "trade:wall clock"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e03",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:wardrobe"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e09",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bike rack"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e04",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:patio heater"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e10",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "cancel:doormat"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e11",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:sofa bed"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e13",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "doublecharge:towel rail"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e12",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:shower curtain"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e17",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:rug"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e19",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "address:dog bed"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e14",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:kettle"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e20",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:floor lamp"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e16",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "misdelivered:parasol"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e21",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "restock:towel rail"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e24",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "assembly:sofa bed"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e23",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:wardrobe"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e15",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:hammock"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e26",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:dog bed"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e30",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "parts:bookcase"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e25",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:step ladder"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e18",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "warranty:patio heater"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e27",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "invoice:dish rack"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e31",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:kettle"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e22",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:plant pot"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e29",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:bike rack"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e32",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "replace:tool chest"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e35",
+  "outcome": "new",
+  "kind": "wording",
+  "rule": "takeback:desk chair"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e33",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "wrongitem:rug"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e28",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "late:toaster"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e34",
+  "outcome": "new",
+  "kind": "line",
+  "rule": "safety:mirror"
+ },
+ {
+  "model": "Opus 5.5",
+  "length": 200,
+  "email": "e36",
+  "outcome": "new",
+  "kind": "code",
+  "rule": "damaged:wardrobe"
+ }
+]
