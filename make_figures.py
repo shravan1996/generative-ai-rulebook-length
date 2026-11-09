@@ -174,7 +174,7 @@ def result(s):
     h = 170
     series = [(k, rate[k]) for k in SERIES]
     sx, sy, plot_top = _panel(svg, 74, 302, top, h, "RULES THAT APPLIED, GOT RIGHT", 90, 100, (90, 95, 100), lambda v: f"{v:g}%", series, lengths)
-    svg.text(sx(3), sy(100) + 19, "sans val", "Sonnet, Opus 100%", "end")
+    svg.text(sx(3), sy(100) - 9, "sans val", "Sonnet, Opus 100%", "end")
     svg.text(sx(3), sy(rate["Haiku 5.5"][3]) + 22, "sans val", f"Haiku {rate['Haiku 5.5'][3]:.1f}%", "end")
     svg.text((74 + 302) / 2, plot_top + h + 42, "sans axis", "Rules in the list", "middle")
 

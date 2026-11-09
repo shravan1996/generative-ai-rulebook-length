@@ -52,7 +52,7 @@
   <circle cx="150.0" cy="196.0" r="4.5" fill="#B4690E" stroke="#FFFFFF" stroke-width="2"/>
   <circle cx="226.0" cy="227.5" r="4.5" fill="#B4690E" stroke="#FFFFFF" stroke-width="2"/>
   <circle cx="302.0" cy="243.2" r="4.5" fill="#B4690E" stroke="#FFFFFF" stroke-width="2"/>
-  <text class="sans val" x="302.0" y="215.0" text-anchor="end">Sonnet, Opus 100%</text>
+  <text class="sans val" x="302.0" y="187.0" text-anchor="end">Sonnet, Opus 100%</text>
   <text class="sans val" x="302.0" y="265.2" text-anchor="end">Haiku 97.2%</text>
   <text class="sans axis" x="188.0" y="408.0" text-anchor="middle">Rules in the list</text>
   <text class="sans label" x="376.0" y="170.0">COST PER REPLY</text>
